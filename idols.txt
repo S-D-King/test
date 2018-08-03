@@ -6,4 +6,4 @@ Trigger = Gaku, Tenn, Ryuu
 
 ReVale = Momo, Yuki
 
-Sub Units = Fure Fure, Love & Game, Matsuri
+Sub Units = Fure Fure, Love&Game, Matsuri
