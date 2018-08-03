@@ -1,0 +1,9 @@
+Groups = i7, Trigger, and ReVale
+
+i7 = Iori, Yamato, Mitsuki, Tamaki, Sougo, Nagi, Riku
+
+Trigger = Gaku, Tenn, Ryuu
+
+ReVale = Momo, Yuki
+
+Sub Units = Mezze, Fly Away, Pythagrean Fighters
