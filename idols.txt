@@ -6,4 +6,8 @@ Trigger = Gaku, Tenn, Ryuu
 
 ReVale = Momo, Yuki
 
+<<<<<<< HEAD
 Sub Units = Fly Away, Mezzo, Pythagrean Fighters
+=======
+
+>>>>>>> lies
